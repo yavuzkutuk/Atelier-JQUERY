@@ -12,4 +12,4 @@ Aide : le lien n’existe pas encore à l’ouverture de la page
 
 * Etape 3 : Créer également des flèches devant chaque élément pour le monter ou le descendre dans la liste
 
-![picture](atelierJQUERY.png)
+![picture](AtelierJQUERY.png)
